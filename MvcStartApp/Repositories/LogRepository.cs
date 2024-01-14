@@ -3,7 +3,6 @@ using MvcStartApp.Models.Db;
 using System.Threading.Tasks;
 using System;
 using Microsoft.AspNetCore.Mvc;
-using MvcStartApp.Controllers;
 
 namespace MvcStartApp.Repositories
 {

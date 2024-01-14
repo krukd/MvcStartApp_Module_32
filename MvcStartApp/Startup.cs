@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using MvcStartApp.Controllers;
 using MvcStartApp.Middlewares;
+using MvcStartApp.Models.Db;
 using MvcStartApp.Repositories;
 
 namespace MvcStartApp

@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MvcStartApp.Controllers;
 using MvcStartApp.Models.Db;
 
 namespace MvcStartApp.Repositories
